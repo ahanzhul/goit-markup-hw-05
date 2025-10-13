@@ -1,6 +1,6 @@
 :root {
   --footer-text-color: #f4f4fd;
-  --brand-blue: #4d5ae5;
+  --brand-blue: #4D5AE5;
   --brand-dark: #2e2f42;
   --muted-color: #8e8f99;
   --accent: #404bbf;
@@ -11,7 +11,6 @@
   --field-bg: transparent;
   --transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
   --dairy: #ffffff;
-  --primary-color: #4d5ae5;
   --secondary-color: #2e2f42;
   --dark-color: #434455;
   --white-color: #ffffff;
