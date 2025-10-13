@@ -1,19 +1,15 @@
 :root {
   --footer-text-color: #f4f4fd;
   --brand-blue: #4D5AE5;
-  --brand-dark: #2e2f42;
   --muted-color: #8e8f99;
   --accent: #404bbf;
   --border: #e7e9fc;
-  --body: #434455;
   --white: #ffffff;
   --footer-bg: #2e2f42;
   --field-bg: transparent;
   --transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  --dairy: #ffffff;
   --secondary-color: #2e2f42;
   --dark-color: #434455;
-  --white-color: #ffffff;
 }
 
 body { font-family: "Roboto", sans-serif; color: #434455; background-color: #ffffff; }
